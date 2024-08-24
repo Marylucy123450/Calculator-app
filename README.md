@@ -2,7 +2,6 @@
 
 This is a simple calculator app built using React. It performs basic arithmetic operations and provides a user-friendly interface.
 
-![image](https://github.com/DevAbdurR/Simple-Calulator/assets/112758727/983f51ed-af0c-4692-aa80-45019ca12c97)
 
 
 ## Features
@@ -26,8 +25,8 @@ See the live project in action: https://react-js-simple-calculator.netlify.app/
 
 To get a local copy up and running, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/DevAbdurR/Simple-Calulator`
-2. Navigate to the project directory: `cd simple-calculator`
+1. Clone this repository: `https://github.com/Marylucy123450/Calculator-app.git`
+2. Navigate to the project directory: `cd Calculator`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
