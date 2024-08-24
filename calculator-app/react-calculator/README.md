@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[Demo](https://Marylucy123450.github.io/react-calculator/)
+[Demo](https://balintmendli.github.io/react-calculator/)
 
 ## Built With
 
@@ -55,15 +55,16 @@ $ npm run test
 
 ## Author
 
-👤 **Marylucy**
+👤 **Balint Mendli**
 
-- GitHub: [@Marylucy123450](https://github.com/Marylucy123450)
-- Email: (marylucyatienoomenda@gmail.com)
+- GitHub: [@BalintMendli](https://github.com/BalintMendli)
+- Website: [mendli.com](https://mendli.com)
+- Email: [balint@mendli.com](mailto:balint@mendli.com)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/Marylucy123450/react-calculator/issues/).
+Feel free to check the [issues page](https://github.com/BalintMendli/react-calculator/issues/).
 
 1. Fork it
 2. Create your working branch
